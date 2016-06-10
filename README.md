@@ -1,3 +1,3 @@
 # Project-Euler
 
-A couple of sample problems from project Euler for fun.
+A couple of sample problems from project Euler that I've done.
